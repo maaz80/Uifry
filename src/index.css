@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.rotate-3d-x {
+    transform: rotateX(30deg);
+  }
+  
+  .rotate-3d-y {
+    transform: rotateY(30deg);
+  }
+  
+  .rotate-3d-z {
+    transform: rotateZ(30deg);
+  }
+  
+  .rotate-3d-x-minus {
+    transform: rotateX(-30deg);
+  }
+  
+  .rotate-3d-y-minus {
+    transform: rotateY(-30deg);
+  }
+  
+  .rotate-3d-z-minus {
+    transform: rotateZ(-30deg);
+  }
